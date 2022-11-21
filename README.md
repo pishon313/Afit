@@ -20,10 +20,12 @@ Swift(5)
 Cocoapods
 - Alamofire
 - Firebase
-- Google login integration\
+- Google login integration
+
 Framewrok\
 - Foundation
-- AVFoundation\
+- AVFoundation
+
 library
 - Lottie
 
