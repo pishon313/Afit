@@ -22,7 +22,7 @@ Cocoapods
 - Firebase
 - Google login integration
 
-Framewrok\
+Framewrok
 - Foundation
 - AVFoundation
 
